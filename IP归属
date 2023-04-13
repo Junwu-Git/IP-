@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,biligame.com
-IP-CIDR,203.107.1.0/24,REJECT
+IP-CIDR,203.107.1.0/24
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
@@ -32,8 +32,8 @@ DOMAIN,szminorshort.weixin.qq.com
 DOMAIN,mp.weixin.qq.com
 DOMAIN-SUFFIX,zhihu.com
 IP-CIDR,103.41.167.0/24
-IP-CIDR,118.89.204.198/23,REJECT
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/40,REJECT
+IP-CIDR,118.89.204.198/23
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/40
 DOMAIN-KEYWORD,core-c-lq
 DOMAIN-KEYWORD,core-lq
 DOMAIN-KEYWORD,normal-c-lq
@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN,keylol.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN,www.wenshushu.cn
-IP-CIDR,119.29.29.98/32,REJECT
+IP-CIDR,119.29.29.98/32
 DOMAIN,frodo.douban.com
 DOMAIN,www.douban.com
 DOMAIN,api.coolapk.com
